@@ -1,0 +1,12 @@
+{
+  "name": "你的真实姓名",
+  "email": "you@example.com",
+  "vendor_url": "https://github.com/你的用户名",
+  "github_user": "",
+  "gitlab_user": "",
+  "gitee_user": "",
+  "gitea_url": "",
+  "jetbrains_vendor": "你的真实姓名或公司名（不能填产品名）",
+  "license": "MIT",
+  "branch": "main"
+}
